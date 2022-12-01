@@ -1,0 +1,9 @@
+C:\Users\javie\OneDrive\Escritorio\L3\Evaluacion2\Evaluacion2\bin\Debug\Evaluacion2.exe.config
+C:\Users\javie\OneDrive\Escritorio\L3\Evaluacion2\Evaluacion2\bin\Debug\Evaluacion2.exe
+C:\Users\javie\OneDrive\Escritorio\L3\Evaluacion2\Evaluacion2\bin\Debug\Evaluacion2.pdb
+C:\Users\javie\OneDrive\Escritorio\L3\Evaluacion2\Evaluacion2\obj\Debug\Evaluacion2.csprojResolveAssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\L3\Evaluacion2\Evaluacion2\obj\Debug\Evaluacion2.Form1.resources
+C:\Users\javie\OneDrive\Escritorio\L3\Evaluacion2\Evaluacion2\obj\Debug\Evaluacion2.Properties.Resources.resources
+C:\Users\javie\OneDrive\Escritorio\L3\Evaluacion2\Evaluacion2\obj\Debug\Evaluacion2.csproj.GenerateResource.Cache
+C:\Users\javie\OneDrive\Escritorio\L3\Evaluacion2\Evaluacion2\obj\Debug\Evaluacion2.exe
+C:\Users\javie\OneDrive\Escritorio\L3\Evaluacion2\Evaluacion2\obj\Debug\Evaluacion2.pdb
